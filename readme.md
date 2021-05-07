@@ -5,7 +5,6 @@
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
   <img alt="Java" src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin%20-%2314354C.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/CSharp%20-%2314354C.svg?&style=for-the-badge&logo=c#&logoColor=white"/>
   <img alt="php" src="https://img.shields.io/badge/php%20-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=blue"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
