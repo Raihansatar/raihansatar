@@ -32,5 +32,6 @@
 
 ### Learning
 <p>
-   <img alt="Unity" src="https://img.shields.io/badge/unreal_engine 4%20-%2314354C.svg?&style=for-the-badge&logo=unrealengine&logoColor=white"/>
+   <img alt="Unreal Engine" src="https://img.shields.io/badge/unreal_engine 4%20-%2314354C.svg?&style=for-the-badge&logo=unrealengine&logoColor=white"/>
+   <img alt="Unity" src="https://img.shields.io/badge/unity%20-%2314354C.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
