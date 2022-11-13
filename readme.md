@@ -8,6 +8,7 @@
   <img alt="C#" src="https://img.shields.io/badge/CSharp%20-%2314354C.svg?&style=for-the-badge&logo=c#&logoColor=white"/>
   <img alt="php" src="https://img.shields.io/badge/php%20-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=blue"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Go" src="https://img.shields.io/badge/go%20-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E"/>
 </p>
 
 ### Stack
